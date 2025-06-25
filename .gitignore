@@ -4,3 +4,6 @@ node_modules/
 /build
 /public
 !public/index.html
+
+# Local Netlify folder
+.netlify
